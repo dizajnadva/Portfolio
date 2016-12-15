@@ -1,0 +1,63 @@
+div.a2-nav-center
+{
+  width: 480px;
+}
+.kwicks
+{
+  left: 300px !important;
+}
+
+.kwicks li a {
+	background-image: url('../images/sprites3.png');
+	background-repeat:no-repeat;
+	height: 57px;
+	outline:none;
+	display:block;
+}
+.kwicks li a .t {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+ul.a2-menu li.item5 {
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	display: block;
+	width: 120px;
+}
+ul.a2-menu li.item6 {
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	display: block;
+	width: 120px;
+  text-indent: 10px;
+}
+ul.a2-menu li.item7 {
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	display: block;
+	width: 120px;
+}
+/*
+ul.a2-menu li.item5 {
+	left: 0px;
+}
+ul.a2-menu li.item6 {
+	left: 120px;
+}
+ul.a2-menu li.item7 {
+	left: 240px;
+}
+*/
+ul.a2-menu li.item5 a {
+	background-position:0px -50px !important;
+}
+ul.a2-menu li.item6 a {
+	background-position:0px -100px !important;
+}
+ul.a2-menu li.item7 a {
+	background-position:0px -192px !important;
+}

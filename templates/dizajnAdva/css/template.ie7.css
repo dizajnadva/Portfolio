@@ -1,0 +1,298 @@
+/* begin Box, Sheet */
+.a2-Sheet-tl
+{
+	clip: rect(auto 20px 20px auto);
+}
+
+.a2-Sheet-tr
+{
+	clip: rect(auto auto 20px 20px);
+}
+
+.a2-Sheet-bl
+{
+	clip: rect(20px 20px auto auto);
+}
+
+.a2-Sheet-br
+{
+	clip: rect(20px auto auto 20px);
+}
+
+.a2-Sheet-tc
+{
+	clip: rect(auto auto 20px auto);
+}
+
+.a2-Sheet-bc
+{
+	clip: rect(20px auto auto auto);
+}
+
+.a2-Sheet-cr
+{
+	clip: rect(auto auto auto 20px);
+}
+
+.a2-Sheet-cl
+{
+	clip: rect(auto 20px auto auto);
+}
+
+.a2-Sheet-body
+{
+	zoom: 1;
+}
+/* end Box, Sheet */
+
+/* begin Menu */
+.a2-nav .r
+{
+	clip: rect(auto auto auto 960px);
+}
+/* end Menu */
+
+/* begin MenuItem */
+.a2-menu a .r
+{
+	clip: rect(auto auto auto 415px);
+}
+/* end MenuItem */
+
+/* begin Box, Block */
+.a2-Block-tl
+{
+	clip: rect(auto 9px 9px auto);
+}
+
+.a2-Block-tr
+{
+	clip: rect(auto auto 9px 9px);
+}
+
+.a2-Block-bl
+{
+	clip: rect(9px 9px auto auto);
+}
+
+.a2-Block-br
+{
+	clip: rect(9px auto auto 9px);
+}
+
+.a2-Block-tc
+{
+	clip: rect(auto auto 9px auto);
+}
+
+.a2-Block-bc
+{
+	clip: rect(9px auto auto auto);
+}
+
+.a2-Block-cr
+{
+	clip: rect(auto auto auto 9px);
+}
+
+.a2-Block-cl
+{
+	clip: rect(auto 9px auto auto);
+}
+
+.a2-Block-body
+{
+	zoom: 1;
+}
+/* end Box, Block */
+
+
+/* begin Box, my-Block */
+.my-a2-Block-tl
+{
+	clip: rect(auto 9px 9px auto);
+}
+
+.my-a2-Block-tr
+{
+	clip: rect(auto auto 9px 9px);
+}
+
+.my-a2-Block-bl
+{
+	clip: rect(9px 9px auto auto);
+}
+
+.my-a2-Block-br
+{
+	clip: rect(9px auto auto 9px);
+}
+
+.my-a2-Block-tc
+{
+	clip: rect(auto auto 9px auto);
+}
+
+.my-a2-Block-bc
+{
+	clip: rect(9px auto auto auto);
+}
+
+.my-a2-Block-cr
+{
+	clip: rect(auto auto auto 9px);
+}
+
+.my-a2-Block-cl
+{
+	clip: rect(auto 9px auto auto);
+}
+
+.my-a2-Block-body
+{
+	zoom: 1;
+}
+/* end Box, my-Block */
+
+
+
+/* begin BlockHeader */
+.a2-BlockHeader .r
+{
+	clip: rect(auto auto auto 952px);
+}
+/* end BlockHeader */
+
+
+/* begin my-BlockHeader */
+.my-a2-BlockHeader .r
+{
+	clip: rect(auto auto auto 952px);
+}
+/* end my-BlockHeader */
+
+
+
+/* begin Box, BlockContent */
+.a2-BlockContent-tl
+{
+	clip: rect(auto 9px 9px auto);
+}
+
+.a2-BlockContent-tr
+{
+	clip: rect(auto auto 9px 9px);
+}
+
+.a2-BlockContent-bl
+{
+	clip: rect(9px 9px auto auto);
+}
+
+.a2-BlockContent-br
+{
+	clip: rect(9px auto auto 9px);
+}
+
+.a2-BlockContent-tc
+{
+	clip: rect(auto auto 9px auto);
+}
+
+.a2-BlockContent-bc
+{
+	clip: rect(9px auto auto auto);
+}
+
+.a2-BlockContent-cr
+{
+	clip: rect(auto auto auto 9px);
+}
+
+.a2-BlockContent-cl
+{
+	clip: rect(auto 9px auto auto);
+}
+
+.a2-BlockContent-body
+{
+	zoom: 1;
+}
+/* end Box, BlockContent */
+
+
+/* begin Box, my-BlockContent */
+.my-a2-BlockContent-tl
+{
+	clip: rect(auto 9px 9px auto);
+}
+
+.my-a2-BlockContent-tr
+{
+	clip: rect(auto auto 9px 9px);
+}
+
+.my-a2-BlockContent-bl
+{
+	clip: rect(9px 9px auto auto);
+}
+
+.my-a2-BlockContent-br
+{
+	clip: rect(9px auto auto 9px);
+}
+
+.my-a2-BlockContent-tc
+{
+	clip: rect(auto auto 9px auto);
+}
+
+.my-a2-BlockContent-bc
+{
+	clip: rect(9px auto auto auto);
+}
+
+.my-a2-BlockContent-cr
+{
+	clip: rect(auto auto auto 9px);
+}
+
+.my-a2-BlockContent-cl
+{
+	clip: rect(auto 9px auto auto);
+}
+
+.my-a2-BlockContent-body
+{
+	zoom: 1;
+}
+/* end Box, my-BlockContent */
+
+
+
+/* begin Box, Post */
+
+.a2-Post-body
+{
+	zoom: 1;
+}
+/* end Box, Post */
+
+/* begin PostContent */
+.a2-PostContent
+{
+	height:1%;
+}
+/* end PostContent */
+
+/* begin Button */
+.a2-button-wrapper .r
+{
+	clip: rect(auto auto auto 402px);
+}
+/* end Button */
+
+.slider-wrap {
+	margin-top: 0px !important;
+}
+

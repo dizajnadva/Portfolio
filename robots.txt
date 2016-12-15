@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /.quarantine/
+Disallow: /.tmb/
+Disallow: /_file-manager/
